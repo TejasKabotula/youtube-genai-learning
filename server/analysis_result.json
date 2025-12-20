@@ -1,0 +1,30 @@
+{
+  "summary": {
+    "short": "This video provides a comprehensive overview of the subject, focusing on core principles and practical applications.",
+    "medium": "The speaker explores the history, current state, and future trends of the topic. Key takeaways include the importance of foundational knowledge, modern toolsets, and continuous learning in the field.",
+    "detailed": "In this session, the instructor breaks down complex concepts into digestible segments. Section 1 covers the historical context and initial breakthroughs. Section 2 deep dives into current industry standards and provides several real-world case studies. The overall message is one of cautious optimism and a call to action for deeper study."
+  },
+  "questions": [
+    {
+      "type": "mcq",
+      "difficulty": "medium",
+      "text": "What is the primary goal discussed in the introduction?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correctOptionIndex": 1,
+      "answerExplanation": "The speaker explicitly mentions that Option B is the priority.",
+      "timestampSeconds": 45
+    },
+    {
+      "type": "open-ended",
+      "difficulty": "hard",
+      "text": "Explain the workflow shown in the second segment.",
+      "answerExplanation": "The workflow involves a 3-step synchronization process.",
+      "timestampSeconds": 210
+    }
+  ]
+}
