@@ -75,8 +75,3 @@ An AI-powered MERN application for video summarization, question generation, and
 - `/server/src/models`: Mongoose schemas.
 - `/server/src/services`: Core logic (AI, YouTube, Export).
 
-## Team Info
-**Team Four – Nexus – AOT – Defenders**
-- Naveen
-- Haneesh
-- Haneesh Badal
